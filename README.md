@@ -2,9 +2,9 @@
 
 # Translate Words Challenge
 
-# The task
-# Given a text file, replace all possible words in English to French using any 
-# programming language of choice
+The task
+Given a text file, replace all possible words in English to French using any 
+ programming language of choice
 
 # What is the input?
 The zip file (TranslateWordsChallenge.zip) has 4 files:
